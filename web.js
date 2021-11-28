@@ -6,7 +6,8 @@ var app = express();
 app.use(logfmt.requestLogger());
 
 app.get('/', function(req, res) {
-  res.send('Hola Mundo desde Heroku 281121'})
+   res.send('GET request to the homepage');
+  });
 
 var port = Number(process.env.PORT || 5000);
 app.listen(port, function() {

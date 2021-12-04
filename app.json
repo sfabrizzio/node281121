@@ -1,5 +1,5 @@
 {
-  "name": "Start on Heroku: Sergioereode.js",
+  "name": "Start on Heroku:",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/heroku/node-js-getting-started",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
